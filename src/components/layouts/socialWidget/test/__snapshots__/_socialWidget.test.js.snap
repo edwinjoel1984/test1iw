@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshow Widget Snapshow Widget 1`] = `
+<div
+  className="sc-dkPtyc iGpeZR"
+>
+  <section
+    className="sc-bdvvaa xXxIo"
+  >
+    <div
+      className="sc-gsDJrp fCYfGI"
+    >
+      <div
+        className="sc-gsDJrp fmguIX"
+      >
+        <div
+          className="sc-gKckTs fDZbFu"
+        >
+          <p
+            className="sc-hKwCoD hJtrdA"
+            color="primary"
+            fontStyle="ligth"
+          >
+            The battle is life or death, but that doesn’t mean love plays no part. ↵#shifters #menage #paranormal #ebook… https://t.co/61xUthkXFN
+          </p>
+          <div
+            className="sc-furvIG eZcjDD"
+          >
+            - 
+            Lori King
+          </div>
+        </div>
+        <div
+          className="sc-iCfLBT cSyTin"
+        >
+          Posted: 
+          Fri Dec 29 19:15:04 +0000 2017
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
